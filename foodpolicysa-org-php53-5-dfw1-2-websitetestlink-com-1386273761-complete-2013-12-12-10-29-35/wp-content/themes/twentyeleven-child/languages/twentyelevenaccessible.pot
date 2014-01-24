@@ -1,0 +1,27 @@
+# Copyright (C) 2012 RRWD web development
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty Eleven Accessible 1.0\n"
+"Report-Msgid-Bugs-To: http://www.rrwd.nl/contact\n"
+"POT-Creation-Date: 2012-07-27 10:42:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <rian@rrwd.nl>\n"
+"Language-Team: LANGUAGE <rian@rrwd.nl>\n"
+
+#: sidebar.php:16
+msgid "Complementary content"
+msgstr ""
+
+#: sidebar-footer.php:25
+msgid ""
+"Footer content"
+msgstr ""
+
+#: footer.php:27
+msgid ""
+"Return to the top of this page"
+msgstr ""
